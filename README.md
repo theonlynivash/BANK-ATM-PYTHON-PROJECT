@@ -19,4 +19,13 @@ This project is ideal for beginners who want to understand **file handling, func
 ---
 
 ## 📁 Project Structure
-
+ATM-Management-System/
+│
+├── atm.py # Main ATM program
+├── username_password.csv # Stores user login credentials
+├── savings.csv # Stores user balances
+├── transactions/
+│ ├── user1_history.csv # Transaction history of user1
+│ ├── user2_history.csv # Transaction history of user2
+│ └── ...
+└── README.md
